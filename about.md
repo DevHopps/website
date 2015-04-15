@@ -4,24 +4,21 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Hi, I am Benedict Balzer, a computer science student based in Germany.
+I am part time working on web stuff for a medium sized company, mostly
+using PHP, SQL, JS, HTML and CSS.
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+In my free time I like to develop games, which this website is mostly about.
+In the past I usally wrote these games in Java, but I like to experiment with
+HTML5 and Javascript sometimes and am currently switching to C++
+
+I also love ants, which you mostly notice when I post some cool pictures of them!
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Find me on [Github][github] / [Twitter][Twitter] or just say `Hello` at 
+[mail@hopps.me](mail@hopps.me).
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[github]: https://github.com/devhopps
+[twitter]: https://twitter.com/dev_hopps
