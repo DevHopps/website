@@ -25,6 +25,8 @@ permalink: /games/
 Find me on [Github][github] / [Twitter][Twitter] or just say `Hi` at 
 [mail@hopps.me](mailto:mail@hopps.me).
 
+*Some of the links are currently not working - I am going to fix that soon!
+
 
 [glob]: http://hopps.itch.io/glob-jump
 [pioneer]: http://hopps.itch.io/pioneer-11
