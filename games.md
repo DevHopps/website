@@ -28,7 +28,6 @@ Find me on [Github][github] / [Twitter][Twitter] or just say `Hi` at
 \* *Some of the links are currently not working - I am going to fix that soon!*
 
 
-
 [glob]: http://hopps.itch.io/glob-jump
 [pioneer]: http://hopps.itch.io/pioneer-11
 [10seconds]: http://hopps.itch.io/10-seconds-jump
