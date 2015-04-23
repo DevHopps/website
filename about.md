@@ -16,8 +16,8 @@ I also love ants, which you mostly notice when I post some cool pictures of them
 
 ### Contact me
 
-Find me on [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[mail@hopps.me](mail@hopps.me).
+Find me on [Github][github] / [Twitter][Twitter] or just say `Hi` at 
+[mail@hopps.me](mailto:mail@hopps.me).
 
 
 [github]: https://github.com/devhopps
