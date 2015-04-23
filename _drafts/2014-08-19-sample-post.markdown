@@ -61,3 +61,5 @@ Pellentesque habitant morbi tristique senectus
 : Duis sodales feugiat lorem et mollis. 
 
 Want me to suggest something? Please [Send me a request](https://github.com/web-create/harmony/issues/new)
+
+![Image](http://placekitten.com/g/900/300)
