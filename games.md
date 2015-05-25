@@ -4,6 +4,9 @@ title: My Games
 permalink: /games/
 ---
 
+This is a list of *all* my games, also the obvisously bad and unfinished ones. I tried to categorize them as best as I could, feel free to have a look!
+
+
 ### Small Games
 
 * [Glob Jump][glob] >> Jump & Run
