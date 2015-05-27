@@ -1,0 +1,3 @@
+User-agent: *
+Dissalow:
+Sitemap: https://hopps.me/sitemap.xml
