@@ -8,6 +8,7 @@ baseurl:
 
 # Localhost 
 url: https://hopps.me
+cdn: https://keycdn.hopps.me
 
 harmony:
   name: Hopps.Me - Benedict Balzer
