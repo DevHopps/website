@@ -7,7 +7,7 @@ categories:
 - server
 ---
 
-![Image]({{ '/assets/images/new.png' | prepend: site.baseurl | prepend: site.url }})
+![Image]({{ '/assets/images/new.png' | prepend: site.baseurl | prepend: site.cdn }})
 In the first few days of my free time I’ve gone ahead and moved my stuff to a shiny new server (hosted by DigitalOcean now).
 
 I know I said at one point I didn’t wanted to change my whole website again, but I couldn’t help it…
