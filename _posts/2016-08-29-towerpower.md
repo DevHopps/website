@@ -18,6 +18,7 @@ wouldn't really fix things. I'll do a post-mortem soon.
 
 Until then you can get [more info on the game on the Ludum Dare page and download it from there][game].
 
+
 [ludumdare]: http://ludumdare.com/compo/
 [10secondsjump]: http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=7316
 [game]: http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=7316
