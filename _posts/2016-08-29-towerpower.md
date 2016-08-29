@@ -9,7 +9,6 @@ categories:
 ---
 
 ![Image]({{ '/assets/images/towerpower.jpg' | prepend: site.baseurl | prepend: site.cdn }})
-
 I did it guys and gals! I did indeed take some time for the 36th (Ludum Dare)[ludumdare] and finished a f*ing game again. 
 As a reference: the last game I did for Ludum Dare was “(10 Seconds Jump)[10secondsjump]” 3(!) years ago. 
 I'm quite happy about participating and finishing the game. 
