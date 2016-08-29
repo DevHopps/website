@@ -10,15 +10,15 @@ This is a list of *all* my games, including the obviously bad and unfinished one
 ### Small Games
 
 * [Glob Jump][glob] >> Jump & Run
-* [Pioneer 11][pioneer] >> Simple Shoot'em up
+* [Pioneer 11][pioneer] >> Really simple Shoot'em up
 
 ### Created in a GameJam 
-
-* [10 Seconds Jump][10seconds]	>> Tiny Jump & Run 					>> [Ludum Dare][ludum]
-* [Homedefender][homedefender] 	>> Weird Defence Game 				>> [Ludum Dare][ludum]
-* [Crazy SOPA][crazysopa] 		>> Shoot down the planes! 			>> [Ludum Dare][ludum]
-* [Lone Ghosthunter][loneghost] >> Survive the Ghosts 				>> [Ludum Dare][ludum] 		*My **first** game made in 48 hours*
-* [Trapped][trapped] 			>> Really Weird story based thing 	>> [Ludum Dare][ludum]
+* [Tower Power][towerpower]	>> Unbalanced Tower Defence 			>> [Ludum Dare 48hrs][ludum]
+* [10 Seconds Jump][10seconds]	>> Tiny Jump & Run 					  >> [Ludum Dare 48hrs][ludum]
+* [Homedefender][homedefender] 	>> Weird Defence Game 				>> [Ludum Dare 48hrs][ludum]
+* [Crazy SOPA][crazysopa] 		>> Shoot down the planes! 			>> [Mini Ludum Dare 24 hrs][ludum]
+* [Lone Ghosthunter][loneghost] >> Survive the Ghosts 				>> [Ludum Dare 48 hrs][ludum] 		*My **first** game made in 48 hours*
+* [Trapped][trapped] 			>> Really Weird story based thing 	>> [Ludum Dare 48 hrs][ludum]
 
 ### Unfinished Stuff
 * [Lost in Andromeda][lostinandromeda] [Unity3D engine test]
@@ -38,6 +38,7 @@ Find me on [Github][github] / [Twitter][Twitter] or just say `Hi` at
 [loneghost]: http://hopps.me/games/
 [trapped]: http://hopps.itch.io/trapped
 [lostinandromeda]: http://hopps.itch.io/lost-in-andromeda
+[towerpower]: http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=7316
 
 [ludum]: http://ludumdare.com/compo/author/hopps/
 [github]: https://github.com/devhopps
