@@ -4,7 +4,7 @@ title:  "Ludum Dare: Tower Power"
 date:   2016-08-29 08:00:00
 description: I finished a game for Ludum Dare after 3 years!
 categories:
-- Ludum Dare
+- ludum-dare
 - gamedev
 ---
 
