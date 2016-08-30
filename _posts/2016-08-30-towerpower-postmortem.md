@@ -4,7 +4,6 @@ title:  "My thoughts on Tower Power (Postmortem)"
 date:   2016-08-30 18:00:00
 description: Postmortem of Power Tower
 categories:
-- post-mortem
 - ludum-dare
 - gamedev
 ---
