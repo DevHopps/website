@@ -10,7 +10,7 @@ categories:
 
 Here is the Postmortem of my latest Ludum Dare game [“Tower Power”][towerpower]. It's just a day late!
 
-# What went right
+## What went right
 
 I am really happy to have participated in this Ludum Dare and actually having enough time to finish something. 
 The last time I really participated was 3 years ago - waaay too long ago. 
@@ -18,7 +18,7 @@ The start went really smooth. The Setup-UI thingy for LigGDX projects works real
 3 years ago it was way more complicated (especially including different frameworks and the correct native files). 
 It just works now after a few clicks.
 
-# What went okay-ish
+## What went okay-ish
 
 My initial idea was something like “Crashed spaceship on planet. Awoke ancient alien race. 
 The crewmen must find resources to repair the ship while also defending the ship”. 
@@ -35,7 +35,7 @@ I'm not really sure that worked.
 
 The same goes pretty much for the sound effect - [Bfxr][bfxr] fits small games quite well.
 
-# What went wrong
+## What went wrong
 
 No music - but no surprise here. I never do them on Ludum Dare and pretty much can't do music myself… 
 I should really look into it and at least try it at some point.
@@ -60,7 +60,7 @@ I also wanted to include a Upgrades, but that never happened.
 
 The Theme doesn't fit the game. I'm “happy” that I atleast added the word “ancient” in the description…
 
-# Conclusion: Enough room for improvement
+## Conclusion: Enough room for improvement
 
 As you can read above, I'm quite happy about participating again. But the game, ugh. 
 It has so many shortcomings in it's current state… 
