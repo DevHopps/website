@@ -71,6 +71,8 @@ I also put the “crewman-survival” concept on my “pile” of ideas, but tha
 I think this is all I want to say right now. If you want to chat I am [@Dev_Hopps on Twitter][twitter], 
 [DevHopps on Discord][discord] and am reachable at mail@hopps.me via Email.
 
+[You can download the game from here!][towerpower]
+
 [towerpower]: http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=7316
 [bfxr]: http://www.bfxr.net/
 [banelinks]: https://youtu.be/FpS6nbjpfiQ?t=14s
