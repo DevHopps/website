@@ -70,7 +70,7 @@ On the positive side it can be improved on so many different things and I will i
 I also put the “crewman-survival” concept on my “pile” of ideas, but that is already gigantic as is.
 
 I think this is all I want to say right now. If you want to chat I am [@Dev_Hopps on Twitter][twitter], 
-[DevHopps on Discord][discord] and am reachable at [mail@hopps.me via Email][mailto: mail@hopps.me].
+[DevHopps on Discord][discord] and am reachable at mail@hopps.me via Email.
 
 [towerpower]: http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=7316
 [bfxr]: http://www.bfxr.net/
