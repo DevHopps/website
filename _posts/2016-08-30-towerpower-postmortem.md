@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My thoughts on Tower Power (Postmortem)"
-date:   2016-08-30 18:00:00
+date:   2016-08-30 00:00:00
 description: Postmortem of Power Tower
 categories:
 - ludum-dare
