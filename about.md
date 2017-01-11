@@ -10,7 +10,7 @@ using PHP, SQL, JS, HTML and CSS.
 
 In my free time I like to develop games, which this website is mostly about.
 In the past I usally wrote these games in Java, but I like to experiment with
-HTML5 and Javascript sometimes and am currently switching to C++
+HTML5 and Javascript and currently write a small-ish game using Electron.
 
 I also love ants, which you mostly notice when I post some cool pictures of them!
 
