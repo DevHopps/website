@@ -35,7 +35,7 @@ harmony:
 
 markdown:    kramdown
 
-highlighter: pygments 
+highlighter: pygments.rb
 
 permalink:        pretty
 
