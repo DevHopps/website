@@ -2,7 +2,6 @@
 layout: post
 title:  "Tiny Update"
 date:   2014-08-21 12:00:00
-description: Tiny update
 categories:
 - dev
 - gamedev

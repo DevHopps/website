@@ -2,7 +2,8 @@
 layout: post
 title:  "My thoughts on Tower Power (Postmortem)"
 date:   2016-08-30 00:00:00
-description: Postmortem of Power Tower
+preview_img: towerpower-preview.jpg
+image: towerpower.jpg
 categories:
 - ludum-dare
 - gamedev

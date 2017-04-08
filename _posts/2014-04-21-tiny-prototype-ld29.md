@@ -2,14 +2,13 @@
 layout: post
 title:  "Tiny Prototype For #LD29"
 date:   2014-04-21 12:00:00
-description: Tiny Prototype
+image: warmup-large.png
 categories:
 - gamedev
 - dev
 - ludum dare
 ---
 
-![Image]({{ '/assets/images/warmup-large.png' | prepend: site.baseurl | prepend: site.cdn }})
 As a preparation for the next Ludum Dare, which is happening on the weekend, I made a small prototype with the stuff I am probably going to use.
 
 It’s build with LibGDX using Box2D and Box2DLights. You can have a look at the [Git repository][git]. There is also a binary included at the releases tab.

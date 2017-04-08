@@ -2,13 +2,13 @@
 layout: post
 title:  "Ludum Dare: Tower Power"
 date:   2016-08-29 08:00:00
-description: I finished a game for Ludum Dare after 3 years!
+preview_img: towerpower-preview.jpg
+image: towerpower.jpg
 categories:
 - ludum-dare
 - gamedev
 ---
 
-![Image]({{ '/assets/images/towerpower.jpg' | prepend: site.baseurl | prepend: site.cdn }})
 I did it guys and gals! I did indeed take some time off for the 36th [Ludum Dare][ludumdare] and finished a f*ing game again. 
 As a reference: the last game I did for Ludum Dare was “[10 Seconds Jump][10secondsjump]” 3(!) years ago. 
 I'm quite happy about participating and finishing the game. 

@@ -13,29 +13,25 @@ This is a list of *all* my games, including the obviously bad and unfinished one
 * [Pioneer 11][pioneer] >> Really simple Shoot'em up
 
 ### Created in a GameJam 
-* [Tower Power][towerpower]	>> Unbalanced Tower Defence 			>> [Ludum Dare 48hrs][ludum]
-* [10 Seconds Jump][10seconds]	>> Tiny Jump & Run 					  >> [Ludum Dare 48hrs][ludum]
-* [Homedefender][homedefender] 	>> Weird Defence Game 				>> [Ludum Dare 48hrs][ludum]
-* [Crazy SOPA][crazysopa] 		>> Shoot down the planes! 			>> [Mini Ludum Dare 24 hrs][ludum]
-* [Lone Ghosthunter][loneghost] >> Survive the Ghosts 				>> [Ludum Dare 48 hrs][ludum] 		*My **first** game made in 48 hours*
-* [Trapped][trapped] 			>> Really Weird story based thing 	>> [Ludum Dare 48 hrs][ludum]
-
-### Unfinished Stuff
-* [Lost in Andromeda][lostinandromeda] [Unity3D engine test]
+* [Tower Power][towerpower] >> Unbalanced Tower Defence             >> [2016 Ludum Dare 48hrs][ludum]
+* [10 Seconds Jump][10seconds]  >> Tiny Jump & Run                  >> [2013 Ludum Dare 48hrs][ludum]
+* [Homedefender][homedefender]  >> Weird Defence Game               >> [2013 Ludum Dare 48hrs][ludum]
+* [Crazy SOPA][crazysopa]       >> Shoot down the planes!           >> [2012 Mini Ludum Dare 24 hrs][ludum]
+* [Lone Ghosthunter][loneghost] >> Survive the Ghosts               >> [2012 Ludum Dare 48 hrs][ludum]       *My **first** game made in 48 hours*
+* [Trapped][trapped]            >> Really Weird story based thing   >> [2012 Ludum Dare 48 hrs][ludum]
 
 #### Like my games? Contact me!
 
 Find me on [Github][github] / [Twitter][Twitter] or just say `Hi` at 
 [mail@hopps.me](mailto:mail@hopps.me).
 
-\* *Some of the links are currently not working - I am going to fix that soon!*
 
 [glob]: http://hopps.itch.io/glob-jump
 [pioneer]: http://hopps.itch.io/pioneer-11
 [10seconds]: http://hopps.itch.io/10-seconds-jump
-[homedefender]: http://hopps.me/games/
-[crazysopa]: http://hopps.me/games/
-[loneghost]: http://hopps.me/games/
+[homedefender]: http://ludumdare.com/compo/ludum-dare-23/?action=preview&uid=7316
+[crazysopa]: http://ludumdare.com/compo/sopajam/?action=preview&uid=7316
+[loneghost]: http://ludumdare.com/compo/ludum-dare-22/?action=preview&uid=7316
 [trapped]: http://hopps.itch.io/trapped
 [lostinandromeda]: http://hopps.itch.io/lost-in-andromeda
 [towerpower]: http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=7316

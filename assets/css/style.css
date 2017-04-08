@@ -1,0 +1,167 @@
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	background-color: #000;
+	color : #EEE;
+	font-size: 15px;
+}
+
+hr {
+	border-color: #333;
+}
+
+a {
+	color: #ec7800;
+}
+
+a:hover, a:focus {
+	color: #ff8302;
+}
+
+h1, h2, h3, h4 {
+	font-family: Georgia, serif !important;
+}
+
+.navbar {
+	border-radius: 0;
+	margin-bottom: 0;
+	border-bottom: 1px solid #ec7800;
+}
+
+.navbar-inverse {
+	background-color: #000;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #FFF;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+	color: #ff8302;
+	background-color: #222;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+	color: #ff8302;
+	background-color: #222;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #FFF;
+}
+
+#header-container, #footer-container {
+	padding: 0;
+	background-color: #d16003;
+	background: linear-gradient(#902003, #eb7b04, #fe9003);
+}
+
+#header {
+	max-height: calc(100vh);
+	width: 100%;
+	background: url('../img/header-background.jpg');
+	text-align: center;
+	display: table;
+	color: #FFF;
+	box-shadow: inset 0px 0px 0px 10px rgba(0, 0, 0, 0.25);
+	margin-top: 50px;
+	border-bottom: 1px solid #ec7800;
+}
+
+#header {
+	height: 250px;
+}
+
+@media (min-height: 500px) {
+	#header {
+		height: 400px;
+	}
+}
+
+#header h1 {
+	font-size: 32px;
+}
+
+#header h2 {
+	font-size: 26px;
+}
+
+#header h3 {
+	font-size: 20px;
+}
+
+.medium-section h1 {
+	font-size: 24px;
+}
+
+#header-center {
+	display: table-cell;
+    vertical-align: middle;
+}
+
+#header-about {
+	background-color: rgba(0, 0, 0, 0.75);
+	padding: 20px;
+	border: 2px solid #f1b500;
+	border-radius: 25px;
+
+	box-shadow: 7px 7px 4px rgba(0, 0, 0, 0.25);
+}
+
+#main-content {
+	background-color: #0A0A0A;
+	background-image: url('../img/background.png');
+}
+
+.centered {
+	text-align: center;
+}
+
+.preview-image {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 40px;
+	width: 200px;
+	height: 200px;
+}
+
+.tagline {
+	color: #888;
+}
+
+.blog-entry {
+	border-bottom: 1px solid #ec7800;
+}
+
+code {
+	background-color: #ec7800;
+	color: #000;
+}
+
+pre {
+	background-color: initial;
+	border: 0;
+	border-radius: 0;
+	padding: 0;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.img-thumbnail {
+	background-color: #ec7800;
+	border: 1px solid #ec7800;
+	border-radius: 2px;
+	padding: 1px;
+}
+
+#footer {
+	background-color: #000;
+	padding: 10px;
+	border-top: 1px solid #ec7800;
+}
+
+#footer h1{
+	font-size: 20px;
+}
