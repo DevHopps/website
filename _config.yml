@@ -24,6 +24,7 @@ google_analytics_key:
 social: 
     github: devhopps
     twitter: dev_hopps
+    youtube: channel/UCgIoIDUDdu5wApsED2XiIfg
 
 # Build settings
 markdown: kramdown
