@@ -99,12 +99,12 @@ h1, h2, h3, h4 {
 }
 
 #header-about {
-	background-color: rgba(0, 0, 0, 0.75);
+	background-color: rgba(0, 0, 0, 0.80);
 	padding: 20px;
-	border: 2px solid #f1b500;
+	border: 1px solid #ec7800;
 	border-radius: 25px;
 
-	box-shadow: 7px 7px 4px rgba(0, 0, 0, 0.25);
+	box-shadow: 7px 7px 4px rgba(0, 0, 0, 0.33);
 }
 
 #main-content {
