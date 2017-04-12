@@ -17,11 +17,11 @@ layout: default
                 </div>
                 <div class="medium-section col-md-3 col-sm-6">
                     <h1>Programming</h1>
-                    <p>At work I currently develop webapps, but I also like to develop <a href="http://localhost:4000/games/">small</a> games in my free time. I like to experiment with different technologies too.</p>
+                    <p>At work I currently develop different things (mostly PHP/HMTL/JS), but I also like to develop <a href="{{site.url}}/games/">small games</a> in my free time. I like to experiment with different technologies too.</p>
                 </div>
                 <div class="medium-section col-md-3 col-sm-6">
                     <h1>Gaming</h1>
-                    <p>I like to play games in my free time. I mostly love playing Strategy and Simulation Games, but also play Coop and FPS Games with my friends.</p>
+                    <p>I like to play games in my free time. I mostly love playing Strategy and Simulation Games, but also play Coop games with my friends.</p>
                 </div>
                 <div class="medium-section col-md-3 col-sm-6">
                     <h1>Social Media</h1>
