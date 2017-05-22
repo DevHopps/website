@@ -165,3 +165,7 @@ img.center {
 #footer h1{
 	font-size: 20px;
 }
+
+::selection {
+	background: #ec7800;
+}
