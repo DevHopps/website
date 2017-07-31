@@ -166,6 +166,10 @@ img.center {
 	font-size: 20px;
 }
 
+::-moz-selection {
+	background: #ec7800;
+}
+
 ::selection {
 	background: #ec7800;
 }
