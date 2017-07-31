@@ -168,8 +168,10 @@ img.center {
 
 ::-moz-selection {
 	background: #ec7800;
+	color: #000000;
 }
 
 ::selection {
 	background: #ec7800;
+	color: #000000;
 }
