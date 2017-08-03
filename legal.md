@@ -16,5 +16,6 @@ Germany<br>
 Contact: mail@hopps.me
 
 **Piwik**
-
-<iframe class="piwik" src="https://pwk.hopps.me/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="piwik" src="https://pwk.hopps.me/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+</div>
