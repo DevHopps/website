@@ -17,4 +17,4 @@ Contact: mail@hopps.me
 
 **Piwik**
 
-<iframe style="border: 0; height: 200px; width: 600px;" src="https://pwk.hopps.me/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+<iframe class="piwik" src="https://pwk.hopps.me/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
