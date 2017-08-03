@@ -14,3 +14,7 @@ Josefinenstr. 111<br>
 Germany<br>
 
 Contact: mail@hopps.me
+
+**Piwik**
+
+<iframe style="border: 0; height: 200px; width: 600px;" src="https://pwk.hopps.me/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
